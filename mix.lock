@@ -1,0 +1,3 @@
+%{
+  "printex": {:hex, :printex, "1.1.0", "9f1861445047d9241b344379f8e6cc438b83d2454173e1d9cc7a38bfd47ebb10", [:mix], [], "hexpm", "52cb28fbbc16803845ed77bcf1f5705d25cdaa2939b11440b7c4db4601430258"},
+}
